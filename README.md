@@ -49,5 +49,4 @@ O resultado é apresentado com duas casas decimais para facilitar a leitura.
 
 Este exercício faz parte de um conjunto de atividades práticas voltadas para o **desenvolvimento da lógica de programação** e o **entendimento dos fundamentos da linguagem C**. Embora simples, este exemplo reforça a importância de estruturar bem o código e seguir boas práticas desde os primeiros passos na programação.
 
-```
-
+---
