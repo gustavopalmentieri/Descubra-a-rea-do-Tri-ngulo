@@ -1,6 +1,3 @@
-# Descubra-a-área-do-Triângulo
-
-
 # 🔎 | Descubra a Área do Triângulo em C
 
 Este projeto é um **exercício acadêmico** desenvolvido como parte de estudos introdutórios em programação com a linguagem **C**. O principal objetivo é colocar em prática conceitos fundamentais como declaração de variáveis, entrada e saída de dados, operações aritméticas e organização estrutural de um programa simples.
